@@ -28,7 +28,7 @@ Do not create or configure a client secret for this script. Public client applic
 
    ```bash
    git clone <repository-url>
-   cd o365-msal-auth-helper
+   cd o365-msal-token-cache-generator
    ```
 
 2. Create a virtual environment:

@@ -2,6 +2,9 @@
 
 > **A single-purpose, dependency-light Python CLI that performs one interactive Microsoft identity platform sign-in and emits a fully serialized MSAL token cache (`o365_token.txt`) that the [python-o365](https://github.com/O365/python-o365) library can consume for unattended, long-lived delegated access to Microsoft 365 mail.**
 
+
+[![Gist](https://img.shields.io/badge/gist.github-version_of_this_repository-DCDCDC?style=for-the-badge&logo=github)](https://gist.github.com/OstinUA/e1c6ab1453ff8db09c973b273e75647a)
+
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue?style=for-the-badge)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![MSAL](https://img.shields.io/badge/MSAL-1.x-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/AzureAD/microsoft-authentication-library-for-python)
